@@ -1,1 +1,1 @@
-# wpu-repository
+# wpu-resolusi
